@@ -1,6 +1,6 @@
 # cpnt262-a2 codepen init()
 ## by Sanaz Daneshvar
-### [Github link] ( https://sanazdaneshvar.github.io/cpnt262-a1/)
+### [Github link] ( https://github.com/SANAZDANESHVAR/cpnt262-a1)
 ### [Github page] (https://github.com/SANAZDANESHVAR)
 ### [Mouse-Based-Parallax Sunset codepen link ] (https://codepen.io/quinlo/pen/XPVmVj)
    
