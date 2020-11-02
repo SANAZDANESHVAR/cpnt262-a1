@@ -1,4 +1,4 @@
-# cpnt262-a2 codepen init()
+# cpnt262-a1 codepen init()
 ## by Sanaz Daneshvar
 ### [Github link] (https://sanazdaneshvar.github.io/cpnt262-a1/)
 ### [Github page] (https://github.com/SANAZDANESHVAR)
