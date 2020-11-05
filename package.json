@@ -1,0 +1,24 @@
+{
+  "name": "cpnt262-a1",
+  "version": "1.0.0",
+  "description": "code and assets which  are used belong to  Tony grim and Adam Quinlan",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANAZDANESHVAR/cpnt262-a1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SANAZDANESHVAR/cpnt262-a1/issues"
+  },
+  "homepage": "https://github.com/SANAZDANESHVAR/cpnt262-a1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
